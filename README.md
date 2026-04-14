@@ -19,19 +19,19 @@
 
 ### 登录页
 
-登录页
+![登录页](./docs/screenshots/login-page.png)
 
 ### 工作台首页
 
-工作台首页
+![工作台首页](./docs/screenshots/workspace-home.png)
 
 ### 配置弹窗
 
-配置弹窗
+![配置弹窗](./docs/screenshots/config-dialog.png)
 
 ### 聊天窗口 / 引用推文
 
-聊天窗口 / 引用推文
+![聊天窗口 / 引用推文](./docs/screenshots/chat-window-quoted-tweet.png)
 
 ---
 
@@ -292,4 +292,3 @@ node -e "console.log(require('crypto').createHash('md5').update('你的明文密
 
 - License 文件：`[LICENSE](./LICENSE)`
 - 你可以自由使用、修改、分发和商用本项目，但需遵守 Apache-2.0 条款
-
