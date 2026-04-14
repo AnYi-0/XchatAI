@@ -1,0 +1,57 @@
+{
+  "id": "test-user-001",
+  "name": "Annie Case",
+  "handle": "anniecase",
+  "bio": "Music creator, performer, and storyteller sharing quick updates and ideas.",
+  "avatarSeed": "anniecase",
+  "createdAt": "2026-04-13T02:08:14.757799+00:00",
+  "updatedAt": "2026-04-14T02:00:21.522Z",
+  "lastMessagePreview": "她这两条主要都在讲**创作习惯和工作系统**：\n\n1. **第一条**：强调做长期创作时，**持续稳定比一时爆发更重要**。也就是养成习惯，比偶尔特别拼更能走得远。  \n2. **第二条**：说她花时间重写自己的工作流程，并认为**好的系统",
+  "messageCount": 6,
+  "messages": [
+    {
+      "id": "tweet-1",
+      "role": "tweet",
+      "content": "A short reminder: consistency beats intensity when you are building a long-term creative habit.\\n\\n#creativity #habits",
+      "createdAt": "2026-04-13T02:08:14.757799+00:00",
+      "tweetId": "tweet-1",
+      "citedTweetId": null
+    },
+    {
+      "id": "tweet-2",
+      "role": "tweet",
+      "content": "Spent the morning rewriting my workflow. The best systems usually feel boring at first, but they free up the most attention later.",
+      "createdAt": "2026-04-13T04:08:14.757799+00:00",
+      "tweetId": "tweet-2",
+      "citedTweetId": null
+    },
+    {
+      "id": "msg-1",
+      "role": "user",
+      "content": "你这句话是想表达效率来自稳定流程吗？",
+      "createdAt": "2026-04-13T06:08:14.757799+00:00",
+      "citedTweetId": "tweet-2"
+    },
+    {
+      "id": "msg-2",
+      "role": "assistant",
+      "content": "对，可以理解为：与其依赖灵感或临时冲刺，不如建立一个稳定、可重复的工作流程，这样长期来看更高效。",
+      "createdAt": "2026-04-13T06:09:14.757799+00:00",
+      "citedTweetId": "tweet-2"
+    },
+    {
+      "id": "test-user-001-user-1776132021522",
+      "role": "user",
+      "content": "这个用户的推文都讲了什么内容",
+      "createdAt": "2026-04-14T02:00:21.522Z",
+      "citedTweetId": null
+    },
+    {
+      "id": "test-user-001-assistant-1776132021523",
+      "role": "assistant",
+      "content": "她这两条主要都在讲**创作习惯和工作系统**：\n\n1. **第一条**：强调做长期创作时，**持续稳定比一时爆发更重要**。也就是养成习惯，比偶尔特别拼更能走得远。  \n2. **第二条**：说她花时间重写自己的工作流程，并认为**好的系统一开始可能很无聊，但之后能节省注意力，让创作更轻松**。\n\n整体感觉就是：她在分享自己对**创作、自律、效率和长期主义**的看法。\n\n如果你愿意，我也可以进一步帮你总结她的**人设风格**或者这些推文适合怎么**互动回复**。",
+      "createdAt": "2026-04-14T02:00:21.522Z",
+      "citedTweetId": null
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "test-user-002",
+  "name": "Builder Max",
+  "handle": "buildermax",
+  "bio": "Indie builder posting product notes, experiments, and weekly launch logs.",
+  "avatarSeed": "buildermax",
+  "createdAt": "2026-04-12T05:08:14.757799+00:00",
+  "updatedAt": "2026-04-13T08:27:25.117Z",
+  "lastMessagePreview": "完全同意。\n\n“小步发布”本质上不是保守，而是把学习周期压到最短：  \n你不是在赌一个大版本会不会成功，而是在持续收集真实用户信号。\n\n而且这和你第二条也很一致：  \n不管是功能还是 dashboard，真正有价值的不是“看起来完成了”，而",
+  "messageCount": 6,
+  "messages": [
+    {
+      "id": "tweet-a",
+      "role": "tweet",
+      "content": "Ship smaller. Feedback compounds faster when users can react to a narrow change instead of a giant launch.",
+      "createdAt": "2026-04-12T05:08:14.757799+00:00",
+      "tweetId": "tweet-a",
+      "citedTweetId": null
+    },
+    {
+      "id": "tweet-b",
+      "role": "tweet",
+      "content": "If a dashboard looks impressive but does not change a decision, it is probably decoration rather than leverage.",
+      "createdAt": "2026-04-12T07:08:14.757799+00:00",
+      "tweetId": "tweet-b",
+      "citedTweetId": null
+    },
+    {
+      "id": "msg-a",
+      "role": "user",
+      "content": "那我应该怎么判断一个功能是不是值得先做？",
+      "createdAt": "2026-04-13T07:18:14.757799+00:00",
+      "citedTweetId": null
+    },
+    {
+      "id": "msg-b",
+      "role": "assistant",
+      "content": "可以先问两个问题：这个功能是否能让用户更快做出决定？它是否能明显缩短反馈闭环？如果都不能，优先级通常不高。",
+      "createdAt": "2026-04-13T07:19:14.757799+00:00",
+      "citedTweetId": null
+    },
+    {
+      "id": "test-user-002-user-1776068845117",
+      "role": "user",
+      "content": "1",
+      "createdAt": "2026-04-13T08:27:25.117Z",
+      "citedTweetId": null
+    },
+    {
+      "id": "test-user-002-assistant-1776068845118",
+      "role": "assistant",
+      "content": "完全同意。\n\n“小步发布”本质上不是保守，而是把学习周期压到最短：  \n你不是在赌一个大版本会不会成功，而是在持续收集真实用户信号。\n\n而且这和你第二条也很一致：  \n不管是功能还是 dashboard，真正有价值的不是“看起来完成了”，而是“有没有帮助用户做出下一步决策”。\n\n你最近有哪个功能，是刻意只做了 60% 就先发出去测试的吗？",
+      "createdAt": "2026-04-13T08:27:25.117Z",
+      "citedTweetId": null
+    }
+  ]
+}
